@@ -13,7 +13,7 @@ The idea stems from the Pixar short *[For the Birds](https://www.youtube.com/wat
 We discretize the wire $[0,1]$ into $L-1$ interior lattice points
 
 $$
-X_L = \left\{\tfrac{1}{L}, \tfrac{2}{L}, \ldots, \tfrac{L-1}{L}\right\},
+X_L = \{ \frac{1}{L}, \frac{2}{L}, \ldots, \frac{L-1}{L} \},
 $$
 
 and track ordered bird positions $X_t = (X_t^1, X_t^2, \ldots, X_t^N)$ in the state space
