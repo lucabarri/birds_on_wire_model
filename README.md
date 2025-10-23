@@ -58,7 +58,7 @@ and the transition probability to a neighboring configuration $y$ that moves bir
 $$
 P(x,y) =
 \begin{cases}
-\lambda_{n,i}(x) / \Lambda(x), & \|x - y\|_1 = 1/L, \\[4pt]
+\lambda_{n,i}(x) / \Lambda(x), & \|x - y\|_1 = 1/L,
 0, & \text{otherwise.}
 \end{cases}
 $$
